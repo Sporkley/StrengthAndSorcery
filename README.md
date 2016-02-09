@@ -6,7 +6,7 @@ An Inspired DungeonWorld Campaign Module
   * Half-Orc
   
 # Classes
-  * New Class - Ninja
+  * Ninja
   * Spells
     * Cleric
     * Wizard
