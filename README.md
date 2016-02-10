@@ -41,6 +41,15 @@ You have the proper training to deal your damage with an unarmed attack. Gain +2
 #####Kick
 Your whole body is a weapon.  You may make an unarmed *hack and slash* move with your feet, dealing your damage + 1
 
+####Alignment
+Choose an alignment:
+
+#####Chaotic
+Your arrogance puts the rest of the group in danger.
+
+#####Neutral
+You do the job as efficiently as possible.
+
 #### Advanced Moves
 
 #####Exotic Weapons Training 
@@ -53,7 +62,7 @@ Your body is not only a weapon, but also a shield. You may use +Dex instead of +
 In the confusion of death, you disappear. When you kill a foe you may immediately apply your *Cloak of Shadow*.
 
 #####Honorable Death
-You kill for honor, not for lust or revenge. Give +1 forward on *Parley* after killing a foe
+You kill for honor, not for bloodlust or revenge. Give +1 forward on *Parley* after killing a foe
 
 #####Stunning Blow
 You may apply the *stun* tag to your unarmed attacks instead of dealing damage
