@@ -10,7 +10,7 @@ You engage a near or closer target with a *melee attack*, exposing yourself to y
   
 # Classes
 ### Ninja
-The **Ninja** becomes an available class option.  These masters of stealth, martial weaponry, and assassination lurk for the right time to strie down their foes.
+The **Ninja** becomes an available class option.  These masters of stealth, martial weaponry, and assassination lurk for the right time to strike down their foes.
 
 ##### Stats
 Your maximum HP is 5+Constitution.
