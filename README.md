@@ -31,7 +31,7 @@ You gain the following starting moves
 
 **Assassinate**:  When you *attack a surprised or defenseless enemy* deal your damage +2d4, ignoring armor.
 
-**Blade Master**:  Gain +2 armor while weilding a precise weapon.
+**Blade Master**:  Gain +2 armor while wielding a precise weapon.
 
 ### Spells
 ##### Cleric
