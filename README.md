@@ -36,7 +36,7 @@ You are able to completely disappear into shadows.  You are considered invisible
 When you *attack a surprised or defenseless enemy* deal your damage +2d4, ignoring armor.
 
 #####Martial Artist
-You have the proper training to deal your damage with an unarmed attack. Gain +2 armor unless wielding anything but precise weapons in either hand.
+You have the proper training to deal your damage with an unarmed attack. Gain +2 armor unless wearing clumsy armor or wielding anything but precise weapons in either hand.
 
 #####Kick
 Your whole body is a weapon.  You may make an unarmed *hack and slash* move with your feet, dealing your damage + 1
