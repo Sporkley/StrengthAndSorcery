@@ -86,6 +86,8 @@ The world or Varn is a microcosm of a variety of landscapes and climates.  The k
 
 Most of civilization resides in one of 5 towns.  Sorpigal lies at the center of the world, nestled snugly in the Pleasant Valley.  Portsmith occupies a peninsula of the Sea of Varn and is the gateway to the islands.  Algary is a pocket of solid ground amongst the haunted marshlands of the southeast.  The residents of Dusk fight to survive in the unrelenting desert of the north.  Erliquin is a wealthy mountain mining town in the west.
 
+The world was once a safe place to travel and conduct trade, but since the *Night of the Burning Moon* all of VARN has become much more dangerous.  Demons, abhorrations, monsterous beasts, and even the dead roam the land.  The lords have hidden away in their castles and the people rarely travel beyod city walls.  Now is the time for heroes.
+
 # Chapter 2 - Gateway to Another World
 ### The World
 ### Fronts
